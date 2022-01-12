@@ -142,38 +142,6 @@ section{
     z-index: 100;
 }
 
-.menu {
-    font: bold 12px/18px sans-serif;
-    text-align: center;
-    display: inline;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-.menu li{
-    color: #b3b3b3;
-    display: inline-block;
-    margin-right: -2px;
-    position: relative;
-    padding: 12px 40px;
-    border: 2.5px solid #bcbec2;
-    border-radius: 10px;
-    background-color: #2905a8;
-    cursor: pointer;
-}
-
-.menu li:hover{
-    background-color: #3638c2;
-    color: #fff;
-}
-
-.menu li:hover ul{
-    display: block;
-    opacity: 1;
-    visibility: visible;
-}
-
 /*===========================
 HOME SECTION STYLES
 ===========================*/
